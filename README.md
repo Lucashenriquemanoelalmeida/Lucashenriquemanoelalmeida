@@ -1,7 +1,7 @@
 - 👋 ola me chamo Lucas Henrique
 - 👀 atualmente estou interresado na area de front-end
-- 🌱 atualmente faço facudade de TI e faço curso de front-end na DIO.ME
-- 💞️ faça sempre o seu menlhor 
+- 🌱 atualmente faço freelancer na parte de front-end
+- 💞️ procuro colaborar da melhor maneira em todo projeto
 - 📫 para entra em contato (11)989569775
 - email:lucashenriquemanoelalmeida@gmail.com
 
