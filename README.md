@@ -1,11 +1,16 @@
-- 👋 ola me chamo Lucas Henrique
-- 👀 atualmente estou interresado na area de front-end
-- 🌱 atualmente faço freelancer na parte de front-end
-- 💞️ procuro colaborar da melhor maneira em todo projeto
-- 📫 para entra em contato (11)989569775
-- email:lucashenriquemanoelalmeida@gmail.com
+Ola Eu Sou o Lucas Henrique sou um Programador Front-end Atualmente estou estudando e criando projetos com
+<br>
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" html-logo />
 
-<!---
-Lucashenriquemanoelalmeida/Lucashenriquemanoelalmeida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" css-logo />
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" jp-logo />
+
+[![Lucas stats](https://github-readme-stats.vercel.app/api?username=LucashenriquemanoelAlmeida)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucashenriquemanoelalmeida)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
